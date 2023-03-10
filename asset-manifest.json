@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Game/static/js/main.04166681.js",
+    "static/media/Gta.png": "/Game/static/media/Gta.6693e729b8fa008c7622.png",
+    "static/media/Csgo.png": "/Game/static/media/Csgo.a6220f1bb3f9c3739d93.png",
+    "static/media/R6.png": "/Game/static/media/R6.503c71997581c9102c13.png",
+    "static/media/Apex.jpg": "/Game/static/media/Apex.01b0177a260f5a275704.jpg",
+    "static/media/MyLogo.png": "/Game/static/media/MyLogo.37b25f528a97b05c9f10.png",
+    "static/media/Steam.svg": "/Game/static/media/Steam.dadd43ca4d9884eed71f772c852de9c9.svg",
+    "static/media/Lol.svg": "/Game/static/media/Lol.5d4eddef8df15ac66ecbd060da50d1b7.svg",
+    "index.html": "/Game/index.html",
+    "main.04166681.js.map": "/Game/static/js/main.04166681.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.04166681.js"
+  ]
+}
